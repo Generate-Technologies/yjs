@@ -25,7 +25,8 @@ export const typeRefs = [
   readYXmlElement,
   readYXmlFragment,
   readYXmlHook,
-  readYXmlText
+  readYXmlText,
+  readYWeakLink
 ]
 
 export const YArrayRefID = 0
